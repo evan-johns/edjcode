@@ -1,8 +1,9 @@
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  title: 'EDJCode',
+  author: 'Evan Johns',
+  headerTitle: 'EDJCode',
+  description:
+    "Hey, I'm Evan, a full-stack web developer in Toledo, OH. Have a look around and see what I've been working on.",
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
