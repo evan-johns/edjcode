@@ -1,11 +1,9 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'Ellissinema Podcast',
+    description: `"A mediocre podcast discussing arts and crafts."`,
+    imgSrc: '/static/images/ellissinema-logo.jpeg',
+    href: 'https://ellissinema.netlify.app/',
   },
   {
     title: 'The Time Machine',
